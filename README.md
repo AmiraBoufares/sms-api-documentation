@@ -1,4 +1,5 @@
 # sms-api-documentation
+
 # Aperçu
 
 L’API HTTP SMS permet d’envoyer des messages SMS, de récupérer les accusés de réception (DLR), de consulter le solde de votre compte et d’obtenir la liste des expéditeurs autorisés.  
